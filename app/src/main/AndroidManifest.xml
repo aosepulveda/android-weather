@@ -2,15 +2,15 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.tynsoft.android.weather">
 
+    <!-- This permission is necessary in order for Weather to perform network access. -->
+    <uses-permission android:name="android.permission.INTERNET" />
+
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-
-        <!-- This permission is necessary in order for Weather to perform network access. -->
-        <uses-permission android:name="android.permission.INTERNET" />
 
         <activity
             android:name=".MainActivity"

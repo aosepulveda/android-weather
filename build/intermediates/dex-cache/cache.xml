@@ -5,7 +5,7 @@
         jar="D:\Proyectos\Android\Weather\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         revision="23.0.3"
-        sha1="a84fcce8092b1bc06aceb623793c5a7bfd3f462b">
+        sha1="7665be620eb1d1cce9bdbde8e3bc1a78254ec426">
         <dex dex="D:\Proyectos\Android\Weather\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_bd0dc5e79e3da25acb1a65212b53aa2cac216fe8\classes.dex" />
     </item>
     <item
@@ -61,7 +61,7 @@
         jar="D:\Proyectos\Android\Weather\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         revision="23.0.3"
-        sha1="b304941632f95e8f5fe220f267b99d6870c48a70">
+        sha1="e9824dc714811afa3c45b00b4d0220f946ea21f0">
         <dex dex="D:\Proyectos\Android\Weather\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_599b44aa3e890aa30227c0779e894f40199ac1e7\classes.dex" />
     </item>
     <item
